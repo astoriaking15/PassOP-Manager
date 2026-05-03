@@ -21,3 +21,6 @@ PassOP is a modern web application designed to help you store and manage your we
 1. Clone the repo: `https://github.com/astoriaking15/PassOP-Manager.git`
 2. Install dependencies: `npm install`
 3. Start the dev server: `npm run dev`
+
+## 🎓 Credits
+This project was built as part of a learning journey following the tutorial by [CodeWithHarry](https://www.youtube.com/@CodeWithHarry). I implemented the logic and styling manually to strengthen my React and Node.js fundamentals.
